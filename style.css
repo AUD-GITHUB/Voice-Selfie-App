@@ -1,0 +1,21 @@
+#logo-img{
+    border : 1px solid black;
+    border-radius: 50%;
+    height: 150px;
+    width: 115px;
+}
+
+#start-voice{
+    width: 60px;
+    border : 1px solid black;
+}
+
+#voice-output{
+    width : 300px;
+}
+
+#selfie,#webcam{
+    width: 450px;
+    height: 350px;
+    border : 1px solid black;
+}
